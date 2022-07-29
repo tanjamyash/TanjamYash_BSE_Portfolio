@@ -1,5 +1,5 @@
 ﻿# Obstacle avoiding Robot
-This will serve as a brief description of your project. Limit this to three sentences because it can become overly long at that point. This copy should draw the user in and make she/him want to read more.
+ I am working on creating a robot that will avoid obstacles in a given path. Furthermore if an object is close to the robot there will be a beep which will direct the robot to move out of the obstacle's path. I am doing this project to increase my knowledge upon robotics and to gain a new experience.
 
 | **Engineer** | **School** | **Area of Interest** | **Grade** |
 |:--:|:--:|:--:|:--:|
