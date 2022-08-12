@@ -9,7 +9,7 @@
 ![Soldering Kit](https://m.media-amazon.com/images/I/71j-GgpSJBL._AC_SL1500_.jpg)
 ![arduiono](https://cdn.shoplightspeed.com/shops/642375/files/29464252/800x800x3/arduino-uno-r3-development-board.jpg)
 # Final Milestone
-My final milestone is the increased reliability and accuracy of my robot. I ameliorated the sagging and fixed the reliability of the finger. As discussed in my second milestone, the arm sags because of weight. I put in a block of wood at the base to hold up the upper arm; this has reverberating positive effects throughout the arm. I also realized that the forearm was getting disconnected from the elbow servo’s horn because of the weight stress on the joint. Now, I make sure to constantly tighten the screws at that joint. 
+My final milestone is that I made a code in which I merged my previous codde of the dc motors and the ultra sonic sensor to create a final code in which my robot detects an object and my robot will turn when the ultra sonic sensor detects that an object is too close to the robot. Some modificaitons that I made onto my robot is that I implemented a buzzing system which will make a noise when the ultra sonic sensor says the distnace of the object is too close for the robot.
 
 [![Final Milestone](https://res.cloudinary.com/marcomontalbano/image/upload/v1612573869/video_to_markdown/images/youtube--F7M7imOVGug-c05b58ac6eb4c4700831b2b3070cd403.jpg )](https://www.youtube.com/watch?v=F7M7imOVGug&feature=emb_logo "Final Milestone"){:target="_blank" rel="noopener"}
 
